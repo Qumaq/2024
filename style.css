@@ -1,0 +1,41 @@
+caption {
+    color:darkgreen;
+}
+
+body {
+    background-color:#5F9EA0;
+}
+
+[type="submit"] {
+    background-color:blue;
+}
+
+.firsttext {
+    color:#2F4F4F;
+}
+
+.tr-gray {
+    background-color:rgb(169, 166, 166);
+}
+
+.tr-white {
+    background-color: white;
+}
+
+#identifikator1 {
+    background-color:rgb(194, 194, 96);
+}
+
+.text-bold {
+    font-weight: bold;
+} 
+
+.list li {
+    color:red;
+}
+
+.list > li {
+    color:blueviolet
+}
+
+/* коментарии */
